@@ -53083,7 +53083,7 @@ T.xY.prototype={
 aV:function(){this.bl()
 P.fw("initState")},
 P:function(a,b){var s=null
-return M.a3L(E.a5J(L.d5("\u88c1\u526a\u89c6\u5c4f",s,s,s,s,s,s)),M.cY(s,new L.D1("https://beecut.cn/trim-video-online",C.eY,this.e,new T.La(this),new T.Lb(this),s),s,s,s,s,s,s,s))},
+return M.a3L(E.a5J(L.d5("\u88c1\u526a\u89c6\u5c4f",s,s,s,s,s,s)),M.cY(s,new L.D1("https://beecut.cn/crop-video-online",C.eY,this.e,new T.La(this),new T.Lb(this),s),s,s,s,s,s,s,s))},
 sa9:function(a,b){return this.e=b}}
 T.Lb.prototype={
 $1:function(a){var s
